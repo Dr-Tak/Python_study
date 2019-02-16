@@ -16,6 +16,8 @@ Dr.takのスタートアップ
 
             バックエンド
                   Python
+                  ※Pythonは以下のサイトからテンプレとして使用 tnks
+                    https://qiita.com/estaro/items/55ae839d22bee1022150
 
             DB
                   悩み中
