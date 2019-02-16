@@ -2,27 +2,36 @@
 
 Dr.takのスタートアップ
 ====
+      自分用  
+            作るもの
+                  ・itunesから自分好みの曲をリストアップするべ
+                        ・rest-apiで情報を抜いてくるべ
+                        ・itunesの何らかのAPIを使うべ？
+                  ・youtubeから自分好みの曲をリストアップするべ
+                        ・rest-apiで情報を抜いてくるべ
+                        ・google-analyticsを使うべ？
 
-      自分用
-      
-        https://guides.github.com/activities/hello-world/
-        を見てgithubの構築理解
+            フロントエンド
+                  HTML&CSS　JavaScript
 
-        フロントエンド
-        HTML&CSS　JavaScript
+            バックエンド
+                  Python
 
-        バックエンド
-          Python
-
-        DB
-          悩み中
-          ・良く扱っているPostgresql
-          ・Hadoop(HDFSでいくか？)
-          ・MySQL
-          ・MongoDB
+            DB
+                  悩み中
+                  ・良く扱っているPostgresql
+                  ・Hadoop(HDFSでいくか？)
+                  ・MySQL
+                  ・MongoDB
 
 ## 概要
 ここには概要を書いてくよ
+
+## 設計書
+ここには設計書を置くよ  
+設計骨子  
+・基礎設計  
+
 
 ## デモ
 アプリ出来たらデモ載せるよ
