@@ -16,8 +16,7 @@ Dr.takのスタートアップ
 
             バックエンド
                   Python
-                  ※Pythonは以下のサイトからテンプレとして使用 tnks
-                    https://qiita.com/estaro/items/55ae839d22bee1022150
+
 
             DB
                   悩み中
@@ -69,3 +68,8 @@ https://deeeet.com/writing/2014/07/31/readme/
 MarkDownの書き方は以下を参考 tnks  
 https://github.com/wmrn/MarkDown/blob/master/README.md
 
+htmlはprogateでやったことを参考 tnks 良かったよ！
+https://prog-8.com/dashboard
+
+Pythonは以下のサイトからテンプレとして使用 tnks  
+https://qiita.com/estaro/items/55ae839d22bee1022150
