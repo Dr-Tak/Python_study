@@ -1,20 +1,26 @@
 # Python_study
-自分用
+<html>
+  <body>
+    <pre>
+      自分用
+      
+        https://guides.github.com/activities/hello-world/
+        を見てgithubの構築理解
 
-https://guides.github.com/activities/hello-world/<br>
-を見てgithubの構築理解
+        フロントエンド
+        HTML&CSS　JavaScript
 
-フロントエンド
-  HTML&CSS　JavaScript
+        バックエンド
+          Python
 
-バックエンド
-  Python
+        DB
+          悩み中
+          ・良く扱っているPostgresql
+          ・Hadoop(HDFSでいくか？)
+          ・MySQL
+          ・MongoDB
 
-DB
-  悩み中
-  ・良く扱っているPostgresql
-  ・Hadoop(HDFSでいくか？)
-  ・MySQL
-  ・MongoDB
-  
-  いずれか・・・
+          いずれか・・・
+      </pre>
+  </body>
+</html>
