@@ -73,3 +73,9 @@ https://prog-8.com/dashboard
 
 Pythonは以下のサイトからテンプレとして使用 tnks  
 https://qiita.com/estaro/items/55ae839d22bee1022150
+
+itunes-apiの参考 tnks  
+https://syncer.jp/itunes-api-matome  
+
+pythonでHTTPリクエストを扱う方法 tnks  
+https://qiita.com/hoto17296/items/8fcf55cc6cd823a18217
