@@ -39,14 +39,18 @@ def main():
 #     req = urllib.request.Request('{}?{}'.format(url, urllib.parse.urlencode(params)))
     req = urllib.request.Request(url)
     with urllib.request.urlopen(req) as res:
-        body = res.read()
-    
-    print(type(body))
-    print(body)
-    
+        json_txt = json.load(res)  #JSON形式での取得
+
+#     print(body)
     
     #JSONの解析
     #musicのdict
+    keyList = json_txt.keys()
+#     print(keyList)
+    
+    valList = json_txt.values()
+    print(valList)
+    
     
 def func_fugafuga(parm1):
     logger.error("エラーです！！")
