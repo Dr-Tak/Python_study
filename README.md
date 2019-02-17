@@ -30,10 +30,22 @@ Dr.takのスタートアップ
 
 ## 設計書
 ここには設計書を置くよ  
-設計骨子  
-・基礎設計  
+設計スケルトン  
+* 基礎設計
+  * フロントエンド：HTML&CSS
+  * サーバエンド：：Python
+  * DB：Postgresql？
 
+* 画面設計
+  * まだ書かないよ。HTMLを載せるかな
+  * デモに載せるかもしれない
 
+* 詳細設計
+  * python
+    * itunes-api HTTP get
+    * json parse
+    * DB insert?  
+  
 ## デモ
 アプリ出来たらデモ載せるよ
 
